@@ -1,0 +1,279 @@
+.main{
+    top: 285px;
+    left: 200px;
+    position: absolute;
+}
+.roof{
+    top: -135px;
+    left: 504px;
+    height: 165px;
+    width: 165px;
+    position: absolute;
+    background-color: #4BA893;
+    transform: rotate(45deg);
+}
+.body{
+    top: -53px;
+    left: 470px;
+    height: 186px;
+    width: 233px;
+    position: absolute;
+    background-color: #A66E2A;
+}
+.door{
+    top: 1px;
+    left: 560px;
+    height: 132px;
+    width: 53px;
+    position: absolute;
+    background-color: #B0BEBA;
+}
+.window{
+    top: 18px;
+    left: 489px;
+    height: 50px;
+    width: 53px;
+    position: absolute;
+    background-color: #B0BEBA;
+}
+.window1{
+    top: 18px;
+    left: 629px;
+    height: 50px;
+    width: 53px;
+    position: absolute;
+    background-color: #B0BEBA;
+}
+.sun{
+    top: -185px;
+    left: 391px;
+    height: 55px;
+    width: 55px;
+    position: absolute;
+    background-color: orange;
+    border-radius: 70px;
+}
+.tree{
+    top: -10px;
+    left: 307px;
+    height: 142px;
+    width: 15px;
+    position: absolute;
+    background-color: #864E0A;
+}
+.stick1{
+    top: -35px;
+    left: 337px;
+    height: 66px;
+    width: 4px;
+    position: absolute;
+    background-color: #864E0A;
+    transform: rotate(55deg);
+}
+.stick2{
+    top: -21px;
+    left: 284px;
+    height: 54px;
+    width: 4px;
+    position: absolute;
+    background-color: #864E0A;
+    transform: rotate(-55deg);
+}
+.stick3{
+    top: -54px;
+    left: 297px;
+    height: 54px;
+    width: 6px;
+    position: absolute;
+    background-color: #864E0A;
+    transform: rotate(-30deg);
+}
+.stick4{
+    top: -54px;
+    left: 326px;
+    height: 54px;
+    width: 6px;
+    position: absolute;
+    background-color: #864E0A;
+    transform: rotate(30deg);
+}
+.leaf1{
+    top: -28px;
+    left: 337px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+    transform: rotate(30deg);
+}
+.leaf2{
+    top: -19px;
+    left: 350px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+    transform: rotate(15deg);
+}
+.leaf3{
+    top: -28px;
+    left: 350px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+
+
+.leaf4{
+    top: -28px;
+    left: 254px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf5{
+    top: -23px;
+    left: 242px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf6{
+    top: -11px;
+    left: 249px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+
+
+.leaf7{
+    top: -62px;
+    left: 260px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf8{
+    top: -63px;
+    left: 237px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf9{
+    top: -87px;
+    left: 248px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf10{
+    top: -77px;
+    left: 274px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+    transform: rotate(45deg);
+}
+.leaf11{
+    top: -102px;
+    left: 266px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf12{
+    top: -98px;
+    left: 234px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+
+
+.leaf13{
+    top: -62px;
+    left: 339px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf14{
+    top: -67px;
+    left: 361px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf15{
+    top: -71px;
+    left: 316px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf16{
+    top: -83px;
+    left: 342px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+    transform: rotate(45deg);
+}
+.leaf17{
+    top: -90px;
+    left: 316px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.leaf18{
+    top: -100px;
+    left: 343px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background-color: green;
+    border-radius: 70px;
+}
+.floor{
+    top: 132px;
+    left: 204px;
+    height: 15px;
+    width: 550px;
+    position: absolute;
+    background-color: #3D2019;
+}
